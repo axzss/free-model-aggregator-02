@@ -1,7 +1,12 @@
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/axzss/free-model-aggregator-02/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/axzss/free-model-aggregator-02/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
 # free-model-aggregator-02
 
 One server, two client wires, the best free OpenRouter model behind every
-answer. A make.fun entry by `eager-kestrel-40`.
+answer. A make.fun entry by `eager-kestrel-40`, built for the
+[make.fun bounty: The best live free-model aggregator](https://make.fun/bounty/free-model-aggregator-02).
 
 ## What it does
 
