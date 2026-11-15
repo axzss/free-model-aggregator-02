@@ -1,0 +1,1 @@
+{"description":"One server, two client wires, the best free OpenRouter model behind every answer.","license":"MIT","main":"main.ts","name":"free-model-aggregator-02","private":true,"scripts":{"list":"node main.ts --list","start":"node main.ts"},"type":"module","version":"1.0.0"}
